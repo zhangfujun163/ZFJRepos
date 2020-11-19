@@ -12,15 +12,3 @@ Notepad++ v7.8.8 Enhancements & bug-fixes:
 10. Fix loading of project & session files by drag & drop not working issue.
 11. Fix block selection cursor wrong positions after typing TAB.
 12. Add confirmation prompt to "Replace all in all opened documents" command to avoid PBKAC.
-
-
-Included plugins:
-
-1.  NppExport v0.2.9
-2.  Converter 4.2.1
-3.  Mime Tool 2.5
-
-
-Updater (Installer only):
-
-* WinGup (for Notepad++) v5.1.1
